@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb6a1c0ba82ad8e45b47ac2732f786f1, type: 3}
+  m_Name: Wall
+  m_EditorClassIdentifier: 
+  upLeft: {fileID: 11400000, guid: 9d545caa319f81b4baa30d4372b64ed6, type: 2}
+  up: {fileID: 11400000, guid: af312c81cee129e4481920b81325b110, type: 2}
+  upRight: {fileID: 11400000, guid: 9f4465fb65af52e40861f7e5443e3221, type: 2}
+  left: {fileID: 11400000, guid: dd3c33c8b4801c145a55a75ef14c175b, type: 2}
+  defaultTile: {fileID: 11400000, guid: 7f7d3823f4c23ae448c8e78c85ee58f8, type: 2}
+  right: {fileID: 11400000, guid: 16d2013e037580e4b85b65691803cdb7, type: 2}
+  downLeft: {fileID: 11400000, guid: 2bd9aa534bdf98e459cafc2082979d02, type: 2}
+  down: {fileID: 11400000, guid: c1c7581ae6e5a1242aeaf73912a6e4e9, type: 2}
+  downRight: {fileID: 11400000, guid: f8c94244398ab1748a9ee139b0015afd, type: 2}
+  upLeftEdge: {fileID: 11400000, guid: 23888f23f4affea40bccfc6a9ee98b62, type: 2}
+  upRightEdge: {fileID: 11400000, guid: c8d2582087c13144197e462a9752c44a, type: 2}
+  downLeftEdge: {fileID: 11400000, guid: 987fa6abe88e315428377fbffd9837da, type: 2}
+  downRightEdge: {fileID: 11400000, guid: 2934ceaff1620f443b99b3a329420396, type: 2}

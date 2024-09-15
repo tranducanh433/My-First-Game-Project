@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90bd8a33198aa2e43888549286759ad9, type: 3}
+  m_Name: Brown Mushroom
+  m_EditorClassIdentifier: 
+  enemyName: 
+  element: 3
+  HP: 15
+  ATK: 4
+  ATKSpeed: 1
+  DEF: 0
+  moveSpeed: 3
+  chaseRarius: 9999
+  attackRadius: 3
+  EXPPerCell: 1
+  numberOfEXPCell: 3
+  lootTable: {fileID: 11400000, guid: 06a2d79d48fe646418744e85e0e30257, type: 2}

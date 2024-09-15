@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb6a1c0ba82ad8e45b47ac2732f786f1, type: 3}
+  m_Name: WetGrass
+  m_EditorClassIdentifier: 
+  upLeft: {fileID: 11400000, guid: cb28a333d3fc7be4893ec35577bcaeed, type: 2}
+  up: {fileID: 11400000, guid: 3d3a010336082b645928f88da719caa3, type: 2}
+  upRight: {fileID: 11400000, guid: 1a8ed8cce3b8f364da04b11ee6207ad1, type: 2}
+  left: {fileID: 11400000, guid: a5f6f03e68b91f149a8d099b82087d65, type: 2}
+  defaultTile: {fileID: 11400000, guid: c7a9bc4efad4e5e4681e982e888558ac, type: 2}
+  right: {fileID: 11400000, guid: c136ec45baa5bfd4d9e6c61cc17ec759, type: 2}
+  downLeft: {fileID: 11400000, guid: f2fbb84e83035214fa3c69f1b1e04f0c, type: 2}
+  down: {fileID: 11400000, guid: 4cba1b07ee7699a469f1b248145fc057, type: 2}
+  downRight: {fileID: 11400000, guid: c418ccccfaedba24db9664158df51ca4, type: 2}
+  upLeftEdge: {fileID: 11400000, guid: 6ccb303ece514f146a3a7d4790844c4a, type: 2}
+  upRightEdge: {fileID: 11400000, guid: d58aa88c081d993478c82879eacf10ff, type: 2}
+  downLeftEdge: {fileID: 11400000, guid: 1652f1250bec40445b37314f41aca633, type: 2}
+  downRightEdge: {fileID: 11400000, guid: d901dd097de7c3a45bccb39e77bc0cf4, type: 2}

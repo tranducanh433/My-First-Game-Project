@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bc87ff0de71ef464596dc4573e236d10
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyData: {instanceID: 0}
+  - whiteMaterial: {fileID: 2100000, guid: ea23525e427a7234da8eab230dbc7264, type: 2}
+  - deathEffect: {instanceID: 0}
+  - textDamage: {instanceID: 0}
+  - hurtSound: {instanceID: 0}
+  - explotionSound: {instanceID: 0}
+  - soundController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

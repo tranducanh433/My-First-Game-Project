@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ec5934292161814aaa8b4a6cb001827, type: 3}
+  m_Name: Easy Room
+  m_EditorClassIdentifier: 
+  enemyToSummon:
+  - {fileID: 8850953487766222530, guid: b054953ca9540104b97fe4948e00c40c, type: 3}
+  - {fileID: 8563779383413513784, guid: 124e3a77057bbac438044ad9302b13fa, type: 3}
+  - {fileID: 6398841711177618903, guid: ec8387cb8a6b791489fd6d6882baa6c6, type: 3}
+  - {fileID: 1576457570769990008, guid: 460cba46c0afdcf4e97b430ef9d42a84, type: 3}
+  - {fileID: 3898833311387431203, guid: 8cfff1d1c11cef34eb3eee18ea61ace9, type: 3}
+  numberAtDay: 7
+  numberAtNight: 10
+  m_creatures:
+  - creatures: {fileID: 4483580389669180145, guid: 2083b30f313a80e469903659cbfe2cae,
+      type: 3}
+    appearChanceAtDay: 100
+    minAtDay: 0
+    maxAtDay: 2
+    appearChanceAtNight: 100
+    minAtNight: 0
+    maxAtNight: 1
+  - creatures: {fileID: 7684479272352311495, guid: e6814371b6176ac40ba3cc9b3a677e77,
+      type: 3}
+    appearChanceAtDay: 100
+    minAtDay: 1
+    maxAtDay: 2
+    appearChanceAtNight: 100
+    minAtNight: 0
+    maxAtNight: 1
+  - creatures: {fileID: 160180488459297983, guid: 5f0f0c5f56ef7a3439ab3b49dda4f9b5,
+      type: 3}
+    appearChanceAtDay: 25
+    minAtDay: 1
+    maxAtDay: 1
+    appearChanceAtNight: 12
+    minAtNight: 1
+    maxAtNight: 1
+  - creatures: {fileID: 8722229135758568826, guid: 9e76e7d42fde10c4d9a79553a29dca82,
+      type: 3}
+    appearChanceAtDay: 40
+    minAtDay: 1
+    maxAtDay: 1
+    appearChanceAtNight: 20
+    minAtNight: 1
+    maxAtNight: 1
+  - creatures: {fileID: 8483301613260890618, guid: 8cc765bbab7b8454b9694f759ab8ace0,
+      type: 3}
+    appearChanceAtDay: 100
+    minAtDay: 0
+    maxAtDay: 2
+    appearChanceAtNight: 100
+    minAtNight: 0
+    maxAtNight: 1
+  - creatures: {fileID: 6958530727555674923, guid: 5931669c6f6d8aa4f8d1afbadc23ae03,
+      type: 3}
+    appearChanceAtDay: 50
+    minAtDay: 0
+    maxAtDay: 2
+    appearChanceAtNight: 50
+    minAtNight: 0
+    maxAtNight: 1
+  - creatures: {fileID: 5865718792609965664, guid: eca00f75f40e74a4da3f95f28e5ed1b2,
+      type: 3}
+    appearChanceAtDay: 75
+    minAtDay: 0
+    maxAtDay: 3
+    appearChanceAtNight: 50
+    minAtNight: 0
+    maxAtNight: 2
+  - creatures: {fileID: 1771094445556122336, guid: 37ab145526a524c4886dc2f610890aa1,
+      type: 3}
+    appearChanceAtDay: 100
+    minAtDay: 0
+    maxAtDay: 2
+    appearChanceAtNight: 100
+    minAtNight: 1
+    maxAtNight: 1

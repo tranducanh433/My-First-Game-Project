@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 123a2bdc0c7bbd740b2ebbf7923c62c2, type: 3}
+  m_Name: Natural Staff
+  m_EditorClassIdentifier: 
+  itemName: Natural Staff
+  itemImage: {fileID: 21300000, guid: a5a8d07d8565ad448aab33dfe370d680, type: 3}
+  itemDescription: 
+  stackAmount: 99
+  materialNeeds: []
+  ATK: 5
+  AMPR: 0
+  SPD: 5
+  ASPD: 15
+  manaNeed: 0
+  attackType: 1
+  element: 3
+  bullet: {fileID: 6635080222593620372, guid: 9c601b01ea8827b45bc1d9f57ce255b5, type: 3}
+  bulletSpeed: 20

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Immune
+  - Cant Break
+  - Bullet
+  - Bush
+  - Breakable Object
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - Wall
+  - Breakable Object
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 4219684659
+    locked: 0
+  - name: Shadow
+    uniqueID: 4105716693
+    locked: 0
+  - name: Wall
+    uniqueID: 2892185639
+    locked: 0
+  - name: Behind Effect
+    uniqueID: 254579921
+    locked: 0
+  - name: Object
+    uniqueID: 8595845
+    locked: 0
+  - name: High Land
+    uniqueID: 2117978359
+    locked: 0
+  - name: Effect
+    uniqueID: 2454739119
+    locked: 0
+  - name: Up All
+    uniqueID: 1167962611
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
